@@ -1,6 +1,14 @@
 # Jekyll-Intro
  An introduction to the Jekyll static site generator.
 
+ ## If you are Elias
+
+```sh
+git add .
+git commit -m "pls work"
+git push
+```
+
 ## Installation
 
 Jekyll is a Ruby gem. With Ruby installed, install Jekyll from the terminal:
