@@ -33,5 +33,3 @@ Run `bundle` to install jekyll for your project.
 
 You can now prefix all jekyll commands listed in this tutorial with `bundle exec`
 to make sure you use the jekyll version defined in your `Gemfile`.
-
-Remove this line.
