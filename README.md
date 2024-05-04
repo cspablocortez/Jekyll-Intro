@@ -3,11 +3,7 @@
 
 ## Installation
 
-Jekyll is a Ruby gem. First, install Ruby on your machine. 
-Go to [Installation]({{ '/docs/installation/' | relative_url }}) and follow the
-instructions for your operating system.
-
-With Ruby installed, install Jekyll from the terminal:
+Jekyll is a Ruby gem. With Ruby installed, install Jekyll from the terminal:
 
 ```sh
 gem install jekyll bundler
